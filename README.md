@@ -1,1 +1,2 @@
-# js-dev-env
+# js-dev-env-demo
+Course demo
